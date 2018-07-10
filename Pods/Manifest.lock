@@ -1,0 +1,15 @@
+PODS:
+  - JHSheetActionView (1.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - JHSheetActionView
+
+SPEC CHECKSUMS:
+  JHSheetActionView: f1423f58472003b4bc79eca7e8269b32ee84b15f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 656b5eec6876f068d8fb4f6ac331b3b8bc517e39
+
+COCOAPODS: 1.2.1
